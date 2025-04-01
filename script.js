@@ -17,16 +17,16 @@ function sendKakaofirst() {
       description: '기회는 단 10분, 선착순 5명에게 선물 증정!',
       imageUrl: 'https://github.com/jaein4722/wow_april_fools/blob/master/assets/first.png?raw=true',
       link: {
-        mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools/fish',
-        webUrl: 'https://jaein4722.github.io/wow_april_fools/fish'
+        mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools/',
+        webUrl: 'https://jaein4722.github.io/wow_april_fools/'
       }
     },
     buttons: [
       {
         title: '당첨자 확인하기',
         link: {
-          mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools/fish',
-          webUrl: 'https://jaein4722.github.io/wow_april_fools/fish'
+          mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools',
+          webUrl: 'https://jaein4722.github.io/wow_april_fools'
         }
       }
     ]
@@ -41,16 +41,16 @@ function sendKakaorandom() {
       description: '행운의 주인공은?',
       imageUrl: 'https://github.com/jaein4722/wow_april_fools/blob/master/assets/random.png?raw=true',
       link: {
-        mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools/fish',
-        webUrl: 'https://jaein4722.github.io/wow_april_fools/fish'
+        mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools',
+        webUrl: 'https://jaein4722.github.io/wow_april_fools'
       }
     },
     buttons: [
       {
         title: '당첨자 확인하기',
         link: {
-          mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools/fish',
-          webUrl: 'https://jaein4722.github.io/wow_april_fools/fish'
+          mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools',
+          webUrl: 'https://jaein4722.github.io/wow_april_fools'
         }
       }
     ]
@@ -65,16 +65,16 @@ function sendKakaoone() {
       description: '선물을 보냈습니다. 지금 확인해 보세요!',
       imageUrl: 'https://github.com/jaein4722/wow_april_fools/blob/master/assets/coffee.png?raw=true',
       link: {
-        mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools/fish',
-        webUrl: 'https://jaein4722.github.io/wow_april_fools/fish'
+        mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools',
+        webUrl: 'https://jaein4722.github.io/wow_april_fools'
       }
     },
     buttons: [
       {
         title: '주문내역 보기',
         link: {
-          mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools/fish',
-          webUrl: 'https://jaein4722.github.io/wow_april_fools/fish'
+          mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools',
+          webUrl: 'https://jaein4722.github.io/wow_april_fools'
         }
       }
     ]
@@ -89,16 +89,16 @@ function sendKakaochicken() {
       description: '선물을 보냈습니다. 지금 확인해 보세요!',
       imageUrl: 'https://github.com/jaein4722/wow_april_fools/blob/master/assets/chicken.png?raw=true',
       link: {
-        mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools/fish',
-        webUrl: 'https://jaein4722.github.io/wow_april_fools/fish'
+        mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools',
+        webUrl: 'https://jaein4722.github.io/wow_april_fools'
       }
     },
     buttons: [
       {
         title: '주문내역 보기',
         link: {
-          mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools/fish',
-          webUrl: 'https://jaein4722.github.io/wow_april_fools/fish'
+          mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools',
+          webUrl: 'https://jaein4722.github.io/wow_april_fools'
         }
       }
     ]
