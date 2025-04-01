@@ -15,7 +15,7 @@ function sendKakaofirst() {
     content: {
       title: '선착순 선물게임을 시작합니다!',
       description: '기회는 단 10분, 선착순 5명에게 선물 증정!',
-      imageUrl: 'https://github.com/jaein4722/wow_april_fools/blob/main/assets/first.png?raw=true',
+      imageUrl: 'https://github.com/jaein4722/wow_april_fools/blob/master/assets/first.png?raw=true',
       link: {
         mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools/fish',
         webUrl: 'https://jaein4722.github.io/wow_april_fools/fish'
@@ -39,7 +39,7 @@ function sendKakaorandom() {
     content: {
       title: '랜덤 3명에게 선물을 보냈습니다.',
       description: '행운의 주인공은?',
-      imageUrl: 'https://github.com/jaein4722/wow_april_fools/blob/main/assets/random.png?raw=true',
+      imageUrl: 'https://github.com/jaein4722/wow_april_fools/blob/master/assets/random.png?raw=true',
       link: {
         mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools/fish',
         webUrl: 'https://jaein4722.github.io/wow_april_fools/fish'
@@ -63,7 +63,7 @@ function sendKakaoone() {
     content: {
       title: '',
       description: '선물을 보냈습니다. 지금 확인해 보세요!',
-      imageUrl: 'https://github.com/jaein4722/wow_april_fools/blob/main/assets/coffee.png?raw=true',
+      imageUrl: 'https://github.com/jaein4722/wow_april_fools/blob/master/assets/coffee.png?raw=true',
       link: {
         mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools/fish',
         webUrl: 'https://jaein4722.github.io/wow_april_fools/fish'
@@ -87,7 +87,7 @@ function sendKakaochicken() {
     content: {
       title: '',
       description: '선물을 보냈습니다. 지금 확인해 보세요!',
-      imageUrl: 'https://github.com/jaein4722/wow_april_fools/blob/main/assets/chicken.png?raw=true',
+      imageUrl: 'https://github.com/jaein4722/wow_april_fools/blob/master/assets/chicken.png?raw=true',
       link: {
         mobileWebUrl: 'https://jaein4722.github.io/wow_april_fools/fish',
         webUrl: 'https://jaein4722.github.io/wow_april_fools/fish'
